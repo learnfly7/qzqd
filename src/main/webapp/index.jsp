@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello
+<a href="/qzqd/user/list">点击查看所有用户</a>
 </body>
 </html>
